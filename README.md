@@ -133,6 +133,6 @@ If you utilize this architecture in your research, please cite:
   year = {2026},
   publisher = {GitHub},
   journal = {GitHub Repository},
-  howpublished = {\url{https://github.com/nare-labs/sr-moa}}
+  howpublished = {\url{https://github.com/narelabs/sr-moa}}
 }
 ```
