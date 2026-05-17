@@ -1,7 +1,7 @@
 # SR-MoA: Self-Reflective Mixture of Adapters
 
 [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)](https://pytorch.org)
-[![HuggingFace](https://img.shields.io/badge/%F0%9F%A5%97-Hugging%20Face-yellow)](https://huggingface.co)
+[![Research: NARE Labs](https://img.shields.io/badge/Research-NARE%20Labs-blueviolet?style=flat&logo=sciencedirect&logoColor=white)](https://github.com/nare-labs)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 **SR-MoA** is a parameter-efficient, dynamic neural architecture that introduces **autonomous test-time neuroplasticity** into frozen Large Language Models. 
